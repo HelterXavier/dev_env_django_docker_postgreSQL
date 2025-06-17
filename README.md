@@ -1,1 +1,1 @@
-# Basic Start Project Django PostegreSQL Docker
+# Basic structure to start a project with Django, PostgreSQL and Docker
