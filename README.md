@@ -11,3 +11,10 @@ Install: django-admin startproject project .
 
 Run
 python djangoapp/manage.py runserver
+
+Add requirements
+
+Add .dockerignore
+
+add folder dotenv_files
+add file .env-exemple
